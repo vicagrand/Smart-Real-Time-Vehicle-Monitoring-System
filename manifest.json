@@ -1,0 +1,10 @@
+{
+  "fileLocations": [
+    {
+      "URIs": ["s3://vehicle-data-export/uploads/vehicle_data_1747138619.json"]
+    }
+  ],
+  "globalUploadSettings": {
+    "format": "JSON"
+  }
+}
